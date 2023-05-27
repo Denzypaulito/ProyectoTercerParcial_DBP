@@ -19,6 +19,11 @@
             android:label="CurriculumDenzel"
             android:theme="@style/Theme.ProyectoTercerParcial_DBP"/>
         <activity
+            android:name=".CurriculumJuan"
+            android:exported="false"
+            android:label="CurriculumJuan"
+            android:theme="@style/Theme.ProyectoTercerParcial_DBP"/>
+        <activity
             android:name=".CurriculumJessica"
             android:exported="false"
             android:label="CurriculumJessica"
