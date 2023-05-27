@@ -63,3 +63,8 @@ Este proyecto es una implementación de una aplicación nativa en Android la cua
 ```
 https://github.com/Denzypaulito/Curriculums
 ```
+
+## Ejecución
+
+Android Studio
+
