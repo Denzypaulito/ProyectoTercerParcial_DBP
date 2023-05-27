@@ -58,7 +58,7 @@ Entregable: Cada miembro del equipo deberá subir la liga de su repositorio en g
 
 Este proyecto es una implementación de una aplicación nativa en Android la cual muestra los curriculums de los diferentes integrantes del equipo.
 
-## Link de donde se cada la infromación
+## Link de donde se saca la información 
 
 ```
 https://github.com/Denzypaulito/Curriculums
