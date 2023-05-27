@@ -54,6 +54,12 @@ Se debe entregar una actividad que funcione como menú y que lleve a cada curric
 
 Entregable: Cada miembro del equipo deberá subir la liga de su repositorio en gitlab / github.
 
-## 
+## ¿Qué es?
 
 Este proyecto es una implementación de una aplicación nativa en Android la cual muestra los curriculums de los diferentes integrantes del equipo.
+
+## Link de donde se cada la infromación
+
+```
+https://github.com/Denzypaulito/Curriculums
+```
